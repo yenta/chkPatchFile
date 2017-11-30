@@ -1,0 +1,539 @@
+filename	language	SEGTT_num	p4_changelist_num	submitted_by	filegroup	Type	destination_path	source_path	hotfix_num	auditor_verified	
+<EnumerateFiles>	en,fr	357701	3094709	kevin_yu	5	N	\Admin\Utility\SQL\	%Export%\SQL\SQLSchemUpgrade\			
+ntrtscan.exe	en,ja	358436	3096346	jason_chang	101	C	\PCCSRV\Pccnt\	%OUTPUT%\image\standard_CD\PccNT\			
+ntrtscan.exe	en,ja	358436	3096346	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\image\standard_CD\PccNT\Win64\x64\			
+tmactmon.cat	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.inf	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.sys	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.cat	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.inf	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.sys	en	354253	3097414	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+bmdriver_x32.sig	en	354253	3097414	glenn_chen	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x32.zip	en	354253	3097414	glenn_chen	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmactmon.cat	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.inf	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.sys	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.cat	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.inf	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.sys	en	354253	3097414	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+bmdriver_x64.sig	en	354253	3097414	glenn_chen	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x64.zip	en	354253	3097414	glenn_chen	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\	20161228	6267	verified
+tmumh.zip	en	356152;357370	3098399	jason_chang	30	T	\Download\pattern\	%OUTPUT%\Download\Pattern\			
+tmumh.ptn	en	356152;357370	3098109	jason_chang	31	T	\CCSF\module\20019\UMH\UMH\	%COMMON_CLIENT_IMPORT%\TMUMH\Pattern\			
+CCSF_PTN.zip	en	356152;357370	3098109	jason_chang	102	T	\PCCSRV\Common\	%OUTPUT%\Pccnt\Common\			
+tmlisten.exe	en,ja	358458	3098746	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	358458	3098746	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+DlpLite_Common.zip	en	358095	3103952	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	358095	3103952	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20170104		verified
+NTRtScan.exe	en	354682	3104490;3104191;3103237	ray_shiu	101	C	\Pccnt\	%OUTPUT%\PccNT\			
+Ntrtscan.exe	en	354682	3104490;3104191;3103237	ray_shiu	111	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+bmservice_x64.zip	en	354682	3104490;3104191;3103237	ray_shiu	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.sig	en	354682	3104490;3104191;3103237	ray_shiu	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	354682	3104490;3104191;3103237	ray_shiu	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.sig	en	354682	3104490;3104191;3103237	ray_shiu	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmwlutil.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmaegisSysEvt.dll	en	354682	3104490;3104191;3103237	ray_shiu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmaegisSysEvt.dll	en	354682	3104490;3104191;3103237	ray_shiu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+CmdHOConsole.dll	en	358714	3107165	artanis_shen	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+tmlisten.exe	en,ja	357598	3112013;3111971	ivan_ma	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	357598	3112013;3111971	ivan_ma	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+DlpLite_Common.zip	en	358095	3112935	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	358095	3112935	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+ProductLibrary.dll	en	349044	3113162	artanis_shen	10	S	\CmAgent\	%COMMON%\Bin\Release\	20170112		verified
+ofcservice.exe	en, jp, cn, de	354730	3115145	ivan_shin	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+CmdHOConsole.dll	en, jp, cn, de	354730	3115145	ivan_shin	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+libCmdHndlrConsoleV2.dll	en, jp, cn, de	354730	3115145	ivan_shin	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+CCSF_WIN32.zip	en	355684	3120646	felix_tseng	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+CCSF_X64.zip	en	355684	3120646	felix_tseng	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+DlpLite_Common.zip	en,jp,tc	358910;354020	3122492	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en,jp,tc	358910;354020	3122492	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+Build.exe	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+Build.exe	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+Build.exe	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+Build.exe	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+cert5.db	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+cert5.db	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+cert5.db	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+cert5.db	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+ciuas32.dll	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+ciuas32.dll	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+ciuas32.dll	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+icrcauapi.dll	en	359321	3125533	kitto_hong							
+liblwtpciu32.dll	en	359321	3125533	kitto_hong							
+patch.exe	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+patch.exe	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+patch.exe	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+patch.exe	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+patchbld.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+patchbld.dll	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+patchbld.dll	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+patchbld.dll	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+PATCHW32.DLL	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+PATCHW32.DLL	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+PATCHW32.DLL	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+PATCHW32.DLL	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+TmUpdate.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+TmUpdate.dll	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+TmUpdate.dll	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+TmUpdate.dll	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+x500.db	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+x500.db	en	359321	3125533	kitto_hong	14	T	\Web\Service\	%IMPORT%\ActiveUpdate\bin\release\			
+x500.db	en	359321	3125533	kitto_hong	48	T	\LWCS\	%IMPORT%\ActiveUpdate\bin\release\			
+x500.db	en	359321	3125533	kitto_hong	67	T	\WSS\	%IMPORT%\ActiveUpdate\bin\release\			
+aucfg.ini	en	359321	3125533	kitto_hong							
+Build64.exe	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+ciuas64.dll	en	359321	3125533	kitto_hong							
+ciussi64.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+liblwtpciu64.dll	en	359321	3125533	kitto_hong							
+patch64.exe	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+pbld64.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+patchw64.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\			
+TmUpdate64.dll	en	359321	3125533	kitto_hong	2	T	\Admin\	%OUTPUT%\Admin\	20170120		verified
+cgiCmdNotify.exe	en,ja 355701	3126148	jason_chang								
+En_BlobConvertUtility.dll	en,ja 355701	3126148	jason_chang								
+En_I18N.dll	en,ja 355701	3126148	jason_chang								
+En_Utility.dll	en,ja 355701	3126148	jason_chang								
+libapr-1.dll	en,ja 355701	3126148	jason_chang								
+libcurl.dll	en,ja 355701	3126148	jason_chang								
+libeay32.dll	en,ja 355701	3126148	jason_chang								
+ssleay32.dll	en,ja 355701	3126148	jason_chang								
+SSO_PKIHelper.dll	en,ja 355701	3126148	jason_chang								
+TrendAprWrapperDll.dll	en,ja 355701	3126148	jason_chang								
+tmwlutil.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmaegisSysEvt.dll	en	357771	3128317	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmaegisSysEvt.dll	en	357771	3128317	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmaegisSysEvt.dll	en	358489	3138019	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmaegisSysEvt.dll	en	358489	3138019	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+CCSF_WIN32.zip	en,ja	359477	3138056	jason_chang	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\	tmmon.dll		
+CCSF_X64.zip	en,ja	359477	3138056	jason_chang	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\	tmmon64.dll		
+DlpLite_Common.zip	en	356754	3141458	kitto_hong	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	356754	3141458	kitto_hong	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+ClnExtor.ini	en	344776	2766903	kitto_hong	3	T	\Admin\Utility\ClientPackager\	%OUTPUT%\Admin\Utility\ClientPackager\			
+TmopExtIns.exe	en,ja	1056	3141462	ray_shiu	102	M	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmopExtIns.exe	en,ja	1056	3141462	ray_shiu	110	M	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmopExtIns32.exe	en,ja	1056	3141462	ray_shiu	110	M	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmopIEPlg.dll	en,ja	1056	3141462	ray_shiu	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmopIEPlg.dll	en,ja	1056	3141462	ray_shiu	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmopIEPlg32.dll	en,ja	1056	3141462	ray_shiu	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmOsprey.dll	en,ja	1056	3141462	ray_shiu	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmOsprey.dll	en,ja	1056	3141462	ray_shiu	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmOsprey32.dll	en,ja	1056	3141462	ray_shiu	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\	20170209		verified
+OfcNotifyQueue.dll	en, ja	360097	3151873	jason_chang	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+OfcNotifyQueue.dll	en, ja	357054	3154592;3154591	jason_chang	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+NTRtScan.exe	en	357853	3105712	oliver_yu	101	C	\Pccnt\	%OUTPUT%\PccNT\			
+Ntrtscan.exe	en	357853	3105712	oliver_yu	111	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmAegisSysEvt.dll	en	359331	3155101;3151445;3151408	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	359331	3155101;3151445;3151409	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	359331	3155101;3151445;3151410	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	359331	3155101;3151445;3151411	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+Tmelapi.dll	en	359331	3155101;3151445;3151412	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\ELAM\X86\			
+TmEngDrv.dll	en	359331	3155101;3151445;3151413	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	359331	3155101;3151445;3151414	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmtap.dll	en	359331	3155101;3151445;3151415	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	359331	3155101;3151445;3151416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x32.sig	en	359331	3155101;3151445;3151417	felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	359331	3155101;3151445;3151418	felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en	359331	3155101;3151445;3151419	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	359331	3155101;3151445;3151420	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	359331	3155101;3151445;3151421	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	359331	3155101;3151445;3151422	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmelapi.dll	en	359331	3155101;3151445;3151423	felix_tseng	202	M	\Engine\X64\	%COMMON_CLIENT_IMPORT%\ELAM\X64\			
+TmEngDrv.dll	en	359331	3155101;3151445;3151424	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	359331	3155101;3151445;3151425	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmtap.dll	en	359331	3155101;3151445;3151426	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en	359331	3155101;3151445;3151427	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+bmservice_x64.sig	en	359331	3155101;3151445;3151428	felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en	359331	3155101;3151445;3151429	felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+DlpLite_Common.zip	en	359521	3154662	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	358095	3103952	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20170216		verified
+libCmdHndlrConsoleV2.dll	en	359522	3163280	ray_shiu	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+tmlisten.exe	en,ja	1587	3166835	glenn_chen	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	1587	3166835	glenn_chen	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+ntrtscan.exe	en	2639	3195558	kevin_yu	101	C	\PCCSRV\Pccnt\	%OUTPUT%\image\standard_CD\PccNT\			
+ntrtscan.exe	en	2639	3195558	kevin_yu	111	C	\PCCSRV\Pccnt\Win64\X64	%OUTPUT%\image\standard_CD\PccNT\Win64\x64\			
+OfcCCCAUpdate.exe	en	1781	3198506	kevin_yu	15	C	\Web\Service\	%import%\Officescan_Infrastructure\Bin\Release\x86\			
+OfcCCCAUpdate.exe	en	1781	3198506	kevin_yu	103	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+OfcCCCAUpdate.exe	en	1781	3198506	kevin_yu	111	C	\Web\Service\	%OUTPUT%\PccNT\Common\	20170309		verified
+DbServer.exe	en	1474	3210683	glenn_chen	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+<EnumerateFiles>	en	1474	3210683	glenn_chen	5	N	\Admin\Utility\SQL\	%Export%\SQL\SQLSchemUpgrade\			
+DlpLite_Common.zip	en			felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en			felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20170104		verified
+bmservice_x64.zip	en	359200		felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.sig	en	359200		felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	359200		felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.sig	en	359200		felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\	20170316		verified
+fcWofieUI.dll	en	2354	3217024	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+fcWofieUI.dll	en	2354	3217024	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+tmlisten.exe	en,ja	283	3224417	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	283	3224417	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+OfcNotifyQueue.dll	en,tc	3508	3225145	glenn_chen	13	S	\Web\Service\	%COMMON%\Bin\Release\			individual release
+CGIShare.dll	en,tc	3508	3225145	glenn_chen	1	S	\	%COMMON%\Bin\Release\			individual release
+CGIShare.dll	en,tc	3508	3225145	glenn_chen	13	S	\Web\Service\	%COMMON%\Bin\Release\			individual release
+CGIShare.dll	en,tc	3508	3225145	glenn_chen	16	S	\Web_OSCE\Web\CGI\	%COMMON%\Bin\Release\			individual release
+CGIShare.dll	en,tc	3508	3225145	glenn_chen	18	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\			individual release
+CGIShare.dll	en,tc	3508	3225145	glenn_chen	26	S	\Web_OSCE\Web_Console\RemoteInstallCGI\	%COMMON%\Bin\Release\			individual release
+libCmdHndlrClientV2.dll	en,tc	3508	3225145	glenn_chen	13	S	\Web\Service\	%COMMON%\Bin\Release\			individual release
+cgiExportInfo.exe	en	3487	3227255	jason_chang	16	S	\Web_OSCE\Web\CGI\	%COMMON%\Bin\Release\			
+ntrtscan.exe	en	3616	3230345	kevin_yu	101	C	\PCCSRV\Pccnt\	%OUTPUT%\image\standard_CD\PccNT\			
+ntrtscan.exe	en	3616	3230345	kevin_yu	111	C	\PCCSRV\Pccnt\Win64\X64	%OUTPUT%\image\standard_CD\PccNT\Win64\x64\			
+DlpLite_Common.zip	en			felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en			felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20170323		verified
+bm_settings.htm	en	350467		felix_tseng	21	T	\Web_OSCE\Web_console\HTML\behavior_monitoring\	%WEBRESOURCE%\OSCE\HTML\behavior_monitoring\			
+tmlisten.exe	en,ja	2812	3240224	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	2812	3240224	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+fcWofieUI.dll	en,ja	2673	3235185	glenn_chen	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+fcWofieUI.dll	en,ja	2673	3235185	glenn_chen	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+tmactmon.cat	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.inf	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.sys	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.cat	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.inf	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.sys	en,ko	3533	3243121	glenn_chen	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+bmdriver_x32.sig	en,ko	3533	3243121	glenn_chen	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x32.zip	en,ko	3533	3243121	glenn_chen	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmactmon.cat	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.inf	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.sys	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.cat	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.inf	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.sys	en,ko	3533	3243121	glenn_chen	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+bmdriver_x64.sig	en,ko	3533	3243121	glenn_chen	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x64.zip	en,ko	3533	3243121	glenn_chen	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmopphSmtp.dll	en,ja	3289	3245459	glenn_chen	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmopphSmtp.dll	en,ja	3289	3245459	glenn_chen	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+TmopphPop3.dll	en,ja	3289	3245459	glenn_chen	102	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmopphPop3.dll	en,ja	3289	3245459	glenn_chen	110	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+ApNT.ini	en	1991	3250305	glenn_chen	69	T	\Autopcc.cfg\	%OUTPUT%\Autopcc.cfg\			
+ApNT_X64.ini	en	1991	3250305	glenn_chen	69	T	\Autopcc.cfg\	%OUTPUT%\Autopcc.cfg\			
+cgiWebUpdate.ini	en	1991	3250305	glenn_chen	54	N	\Web_OSCE\Web_Console\CGI\	%OUTPUT%\Web_Console\CGI\			
+ClnPack.ini	en	1991	3250305	glenn_chen	3	T	\Admin\Utility\ClientPackager\	%OUTPUT%\Admin\Utility\ClientPackager\			
+ClnPack_files.xml	en	1991	3250305	glenn_chen	33	N	\Download\	%OUTPUT%\Download\			
+TmPfwCtl_xp.dll	en	1991	3247501	glenn_chen	121	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwCtl_xp.dll	en	1991	3247501	glenn_chen	122	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+client_searchwindow.htm	en,ja	358992	3257416	glenn_chen	22	T	\Web_OSCE\Web_console\HTML\clientmag\	%WEBRESOURCE%\OSCE\HTML\clientmag\			
+menu_common.js	en,ja	358992	3257416	glenn_chen	23	T	\Web_OSCE\Web_console\HTML\common\	%WEBRESOURCE%\OSCE\HTML\common\			
+DlpLite_Common.zip	en	1891	3257540	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	1891	3257540	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+PccNTMon.exe	tc	1989	3258661	felix_tseng	103	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+PccNTMon.exe	tc	1989	3258661	felix_tseng	111	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170406		verified
+PccNTMon.exe	tc	1989	3258661	felix_tseng	103	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+PccNTMon.exe	tc	1989	3258661	felix_tseng	111	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+bm_settings.htm	sc,ru	4506;4671	3244667	felix_tseng	21	T	\Web_OSCE\Web_console\HTML\behavior_monitoring\	%WEBRESOURCE%\OSCE\HTML\behavior_monitoring\			
+TmAegisSysEvt.dll	en	360057	3269917;3269928	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	360057	3269917;3269929	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	360057	3269917;3269930	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	360057	3269917;3269931	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	360057	3269917;3269934	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	360057	3269917;3269936	kevin_yu	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x32.sig	en	360057	3269917;3269937	kevin_yu	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	360057	3269917;3269938	kevin_yu	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en	360057	3269917;3269939	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	360057	3269917;3269940	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	360057	3269917;3269941	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	360057	3269917;3269942	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	360057	3269917;3269945	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en	360057	3269917;3269947	kevin_yu	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+bmservice_x64.sig	en	360057	3269917;3269948	kevin_yu	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en	360057	3269917;3269949	kevin_yu	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\	20170413		verified
+ntrtscan.exe	en,ja	3345	3279098	jason_chang	101	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en,ja	3345	3279098	jason_chang	111	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+libCmdHndlrConsoleV2.dll	en,ja	3919	3271013	jason_chang	13	S	\Web\Service\	%COMMON%\Bin\Release\			
+DlpLite_Common.zip	en	2232	3283456	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	2232	3283456	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+tmlisten.exe	en,ja	3575	3283254	ivan_ma	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	3575	3283254	ivan_ma	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+OfcCMAgent.exe	en,ja	5041	3286210	glenn_chen	46	S	\CmAgent\	%COMMON%\Bin\Release\	20170420		verified
+DlpLite_Common.zip	en	5361	3298628	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	5361	3298628	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+tmlisten.exe	en	5633	3297866	kitto_hong	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en	5633	3297866	kitto_hong	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170427		verified
+tmeevw.cat	en	360007	3332392	felix_tseng	551	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmeevw.inf	en	360007	3332392	felix_tseng	551	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmeevw.sys	en	360007	3332392	felix_tseng	551	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmeevw.cat	en	360007	3332392	felix_tseng	561	T	\Pccnt\Drv\X64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmeevw.inf	en	360007	3332392	felix_tseng	561	T	\Pccnt\Drv\X64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmeevw.sys	en	360007	3332392	felix_tseng	561	T	\Pccnt\Drv\X64\	%OUTPUT%\Pccnt\Drv\x64\			
+TmAegisSysEvt.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+Tmelapi.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\ELAM\X86\			
+TmEngDrv.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmtap.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x32.sig	en	4799	3339090	felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	4799	3339090	felix_tseng	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmelapi.dll	en	4799	3337416	felix_tseng	202	M	\Engine\X64\	%COMMON_CLIENT_IMPORT%\ELAM\X64\			
+TmEngDrv.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmtap.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en	4799	3337416	felix_tseng	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+bmservice_x64.sig	en	4799	3339090	felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en	4799	3339090	felix_tseng	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\	20170518		verified
+tmlisten.exe	en	5477	3340443	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+data_protection.htm	ja	6873	3352244	ivan_ma	93	T	\Web_OSCE\Web_console\HTML\aegis\	%WEBRESOURCE%\OSCE\HTML\aegis\	20170525		verified
+tmlisten.exe	en,ja	3443	3362940	glenn_chen	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	3443	3362940	glenn_chen	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170601		verified
+ICRCHdler.dll	en	6323	3368817	glenn_chen	512	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+ICRCHdler.dll	en	6323	3368817	glenn_chen	522	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+ssleay32.dll	en	6323	3368817	glenn_chen	512	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+ssleay32.dll	en	6323	3368817	glenn_chen	522	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+libeay32.dll	en	6323	3368817	glenn_chen	512	T	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+libeay32.dll	en	6323	3368817	glenn_chen	522	T	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+CGIOCommon.dll	en,ja	7944	3374397	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+CGIOCommon.dll	en,ja	7944	3374397	glenn_chen	81	S	\Web_OSCE\Web\CGI\	%COMMON%\Bin\Release\			
+CGIOCommon.dll	en,ja	7944	3374397	glenn_chen	84	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\			
+DlpLite_Common.zip	en	8017	3375961	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	8017	3375961	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+libCmdHndlrConsoleV2.dll	en	359895	3378054	ivan_ma	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+Admin_User_List.htm	ja	6391	3980687	felix_tseng	96	T	\Web_OSCE\Web_console\HTML\Auth\	%WEBRESOURCE%\OSCE\HTML\Auth\	20170608		verified
+ntrtscan.exe	en,tc	6528	3379897	artanis_shen	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en,tc	6528	3379897	artanis_shen	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+OfcNotifyQueue.dll	en, ja	7585	3380675	jason_chang	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+dlp_FileAttr_addedit.htm	ja	2537	3389879, 3389902	kitto_hong	107	T	\Web_OSCE\Web_Console\HTML\dlp\	%WEBRESOURCE%\OSCE\HTML\dlp\			
+l10n.dlp.js	ja	2537	3389879, 3389902	kitto_hong	102	T	\Web_OSCE\Web_Console\HTML\common\l10n\	%WEBRESOURCE%\OSCE\HTML\common\l10n\			
+ntrtscan.exe	ja	2537	3389879, 3389902	kitto_hong	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	ja	2537	3389879, 3389902	kitto_hong	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\	20170615		verified
+tmlisten.exe	en,ja	8356	3395549	jason_chang	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	8356	3395549	jason_chang	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+DbServer.exe	en	7747	3405964	jason_chang	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+libCmdHndlrConsoleV2.dll en	7747	3405964	jason_chang	71	S	\Web\Service\	%COMMON%\Bin\Release\				
+libCmdHndlrClientV2.dll en	7747	3405964	jason_chang	71	S	\Web\Service\	%COMMON%\Bin\Release\				
+cgishowClientAdm.exe en	7747	3405964	jason_chang	84	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\				
+TMVS.exe	en,ja	2745-merge	3407484	glenn_chen	35	S	\Admin\Utility\TMVS\	%OUTPUT%\Admin\Utility\TMVS\			
+CmdHLClient.dll	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+CmdHOConsole.dll	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+libCmdHndlrClientV2.dll	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+libCmdHndlrConsoleV2.dll	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+OfcService.exe	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+OfcNotifyQueue.dll	en,ja	358532-merge	3407485	glenn_chen	71	S	\Web\Service\	%COMMON%\Bin\Release\			
+tmlisten.exe	en,ja	6421	3410164	kitto_hong	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	6421	3410164	kitto_hong	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+PccNTMon.exe	en,ja	6421	3410164	kitto_hong	511	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+PccNTMon.exe	en,ja	6421	3410164	kitto_hong	521	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+NTRmv.exe	en,ja	6421	3410164	kitto_hong	511	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+NTRmv.exe	en,ja	6421	3410164	kitto_hong	521	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Common\	20170622		verified
+DlpLite_Common.zip	en	9560	3438899	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	9560	3438899	felix_tseng	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+cgiGetNTDomain.exe	en,ja	VRTS-1012	3441541	jason_chang	141	\Web_OSCE\Web_Console\RemoteInstallCGI\	%COMMON%\Bin\Release\				
+CGIOCommon.dll	en,ja	VRTS-1012	3441541	jason_chang	141	\Web_OSCE\Web_Console\RemoteInstallCGI\	%COMMON%\Bin\Release\				
+cgiRqUpd.exe	en,ja	VRTS-1022	3444045	jason_chang	81	S	\Web_OSCE\Web\CGI\	%COMMON%\Bin\Release\	20170713		verified
+tmlisten.exe	en,ja	10228	3451114	kitto_hong	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	10228	3451114	kitto_hong	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+ntrtscan.exe	en	10167	3448087	ivan_shin	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en	10167	3448087	ivan_shin	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+ntrtscan.exe	en,tc	4529	3467007	ivan_ma	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en,tc	4529	3467007	ivan_ma	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+tmlisten.exe	en,ja	8981	3467290	glenn_chen	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	8981	3467290	glenn_chen	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170720		verified
+cgishowClientAdm.exe en	VRTS-1052	3467535	jason_chang	84	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\				
+fcWofieUI.dll	en,ja	10688	3491762	glenn_chen	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+fcWofieUI.dll	en,ja	10688	3491762	glenn_chen	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+ClientConsole.zip	en,ja	10688	3491762	glenn_chen	505	N	\Pccnt\	%OUTPUT%\PccNT\			
+DlpLite_Common.zip	en,tc	11404	3495488	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en,tc	11404	3495488	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+OfcPfwSvc.dll	en,ja	6917	3495696	jason_chang 511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\				
+OfcPfwSvc_64x.dll	en,ja	6917	3495696	jason_chang	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+TmListen.exe	en,ja	11074	3496466	jason_chang	511	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+TmListen.exe	en,ja	11074	3496466	jason_chang	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+NTRmv.exe	en,ja	11074	3496466	jason_chang	511	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+NTRmv.exe	en,ja	11074	3496466	jason_chang	521	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Common\			
+tmactmon.cat	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.inf	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmactmon.sys	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.cat	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.inf	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+tmevtmgr.sys	en,ja	8988	3498216	ivan_ma	204	T	\Pccnt\Drv\	%OUTPUT%\Pccnt\Drv\			
+bmdriver_x32.sig	en,ja	8988	3498218	ivan_ma	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x32.zip	en,ja	8988	3498218	ivan_ma	205	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmactmon.cat	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.inf	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmactmon.sys	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.cat	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.inf	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+tmevtmgr.sys	en,ja	8988	3498216	ivan_ma	206	T	\Pccnt\Drv\x64\	%OUTPUT%\Pccnt\Drv\x64\			
+bmdriver_x64.sig	en,ja	8988	3498218	ivan_ma	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmdriver_x64.zip	en,ja	8988	3498218	ivan_ma	207	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en,ja	8988	3498216	ivan_ma	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x32.sig	en,ja	8988	3498218	ivan_ma	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en,ja	8988	3498218	ivan_ma	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en,ja	8988	3498216	ivan_ma	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+bmservice_x64.sig	en,ja	8988	3498218	ivan_ma	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en,ja	8988	3498218	ivan_ma	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmlisten.exe	en,ja	8988	3498215	ivan_ma	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	8988	3498215	ivan_ma	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+tmCfwApi.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmFpHcEx.exe	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+tmHash.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfw.exe	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwApi.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwCtl.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwCtl_xp.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwRul.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+tmwfpapi.dll	ja	6917	3424770	kitto_hong	525	T	\Pccnt\Win64\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+tmCfwApi.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmFpHcEx.exe	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+tmHash.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfw.exe	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwApi.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwCtl.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwCtl_xp.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwRul.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+tmwfpapi.dll	ja	6917	3424770	kitto_hong	515	T	\Pccnt\Common\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+tmlwf.cat	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\amd64\			
+tmlwf.inf	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\amd64\			
+TMLWF.sys	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\amd64\			
+tmlwfins.exe	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\amd64\			
+tmlwf.cat	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\i386\			
+tmlwf.inf	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\i386\			
+TMLWF.sys	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\i386\			
+tmlwfins.exe	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\lwf\i386\			
+tmwfp.cat	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\amd64\			
+tmwfp.inf	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\amd64\			
+TMWFP.sys	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\amd64\			
+tmwfpins.exe	ja	6917	3424770	kitto_hong	563	T	\Pccnt\Drv\X64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\amd64\			
+tmwfp.cat	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\i386\			
+tmwfp.inf	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\i386\			
+TMWFP.sys	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\i386\			
+tmwfpins.exe	ja	6917	3424770	kitto_hong	553	T	\Pccnt\Drv\	%COMMON_CLIENT_IMPORT%\NSC\cfw\sys\wfp\i386\			
+tmCfwApi.dll	ja	6917	3424770	kitto_hong	56	T	\Engine\x64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+tmHash.dll	ja	6917	3424770	kitto_hong	56	T	\Engine\x64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfw.exe	ja	6917	3424770	kitto_hong	56	T	\Engine\x64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwApi.dll	ja	6917	3424770	kitto_hong	56	T	\Engine\x64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+TmPfwRul.dll	ja	6917	3424770	kitto_hong	56	T	\Engine\x64\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x64\			
+tmCfwApi.dll	ja	6917	3424770	kitto_hong	54	T	\Engine\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+tmHash.dll	ja	6917	3424770	kitto_hong	54	T	\Engine\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfw.exe	ja	6917	3424770	kitto_hong	54	T	\Engine\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwApi.dll	ja	6917	3424770	kitto_hong	54	T	\Engine\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+TmPfwRul.dll	ja	6917	3424770	kitto_hong	54	T	\Engine\	%COMMON_CLIENT_IMPORT%\NSC\cfw\app\x86\			
+OfcPfwSvc.dll	ja	1689	3457322	ivan_shin 511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\				
+OfcPfwSvc_64x.dll	ja	1689	3457322	ivan_shin	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170803		verified
+l10n.serveradm.js	en,ja	10748	3500968	jason_chang	102	T	\Web_OSCE\Web_Console\HTML\common\l10n\	%WEBRESOURCE%\OSCE\HTML\common\l10n\			
+server_proxy.htm	en	SEG-10980	3508527	jason_chang	100	T	\Web_OSCE\Web_console\HTML\serveradm\	%WEBRESOURCE%\OSCE\HTML\serveradm\			
+DlpLite_Common.zip	en	12203	3524997	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	12203	3524997	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+cme_dll.dll	en	12203	3524997	ivan_ma	74	T	\Web\Service\	%IMPORT%\DLP\PatternValidation\Bin\Release\			
+cme_vxe_dll_static.dll	en	12203	3524997	ivan_ma	74	T	\Web\Service\	%IMPORT%\DLP\PatternValidation\Bin\Release\	20170817		verified
+TmAegisSysEvt.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+Tmelapi.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\ELAM\X86\			
+tmtap.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x32.sig	en	12179	3551730	kitto_hong	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en	12179	3551730	kitto_hong	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+TmAegisSysEvt.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en	12179	3551730	kitto_hong	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+Tmelapi.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\ELAM\X86\			
+tmtap.dll	en	12179	3551730	kitto_hong	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+bmservice_x64.sig	en	12179	3551730	kitto_hong	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en	12179	3551730	kitto_hong	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+tmlisten.exe	en	12179	3551730	kitto_hong	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en	12179	3551730	kitto_hong	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170831		verified
+tmlisten.exe	en,ja	12586	3556149	kitto_hong	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en,ja	12586	3556149	kitto_hong	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+PccNTMon.exe	en,ja	13165	3563056	jason_chang	511	C	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+PccNTMon.exe	en,ja	13165	3563056	jason_chang	521	C	\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+CCSF_WIN32.zip	en,ja	VRTS-1228	3565026	glenn_chen	519	N	\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+CCSF_X64.zip	en,ja	VRTS-1228	3565026	glenn_chen	529	N	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\	20170907		verified
+tmlisten.exe	en	8096	3567204	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en	8096	3567204	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+ntrtscan.exe	en	8096	3567204	jason_chang	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en	8096	3567204	jason_chang	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+tmlisten.exe	en	13700	3576614	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en	13700	3576614	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+TmAegisSysEvt.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMCLI.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMBMSRV.exe	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmcomeng.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmEngDrv.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TMPEM.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmwlutil.dll	en,tc	12830	3576545	jason_chang	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+TmAegisSysEvt.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMCLI.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMBMSRV.exe	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmcomeng.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TmEngDrv.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+TMPEM.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+tmwlutil.dll	en,tc	12830	3576545	jason_chang	202	M	\Engine\x64\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\x64\			
+bmservice_x32.sig	en,tc	12830	3576558	jason_chang	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x32.zip	en,tc	12830	3576558	jason_chang	201	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.sig	en,tc	12830	3576558	jason_chang	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+bmservice_x64.zip	en,tc	12830	3576558	jason_chang	203	T	\Download\Engine\	%OUTPUT%\Download\Engine\			
+DlpLite_Common.zip	en	14071	3592479	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	14071	3592479	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20170921		verified
+fcWofieUI.dll	en,ja	14058	3600744	jason_chang	511	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+fcWofieUI.dll	en,ja	14058	3600744	jason_chang	521	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\	20170928		verified
+<EnumerateFiles>	en,tc	13979	3612774	glenn_chen	32	N	\Admin\Utility\SQL\	%Export%\SQL\SQLSchemUpgrade\	20171005		verified
+ntrtscan.exe	en,ja	13737	3620787	jason_chang	503	C	\Pccnt\	%OUTPUT%\PccNT\			
+ntrtscan.exe	en,ja	13737	3620787	jason_chang	521	C	\Pccnt\Win64\x64\	%OUTPUT%\PccNT\Win64\x64\			
+DlpLite_Common.zip	en	14671	3632106	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	14671	3632106	ivan_ma	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20171012		verified
+cgiAuthManagement.exe	en,ja	1730	3661028	jason_chang	84	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\			
+DlpLite_Common.zip	en	15209	3660093	glenn_chen	500	N	\Download\Product\	%OUTPUT%\Download\Product\			
+DlpLite_Common_x64.zip	en	15209	3660093	glenn_chen	500	N	\Download\Product\	%OUTPUT%\Download\Product\	20171026		verified
+cgiShowClientAdm.exe	en	12965	3708556	kitto_hong	84	S	\Web_OSCE\Web_Console\CGI\	%COMMON%\Bin\Release\			
+SVRSVCSETUP.exe	ja	15477	3708689	kitto_hong	1	S	\	%COMMON%\Bin\Release\
+Autopcc.exe	sc	17239	3710758	kitto_hong	1	S	\	%OUTPUT%\
+Autopccp.exe	sc	17239	3710758	kitto_hong	1	S	\	%OUTPUT%\	20171123	YD	verified
+tmlisten.exe	en	17314	3713471	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
+tmlisten.exe	en	17314	3713471	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
