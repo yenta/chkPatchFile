@@ -535,5 +535,5 @@ cgiShowClientAdm.exe	en	12965	3708556	kitto_hong	84	S	\Web_OSCE\Web_Console\CGI\
 SVRSVCSETUP.exe	ja	15477	3708689	kitto_hong	1	S	\	%COMMON%\Bin\Release\
 Autopcc.exe	sc	17239	3710758	kitto_hong	1	S	\	%OUTPUT%\
 Autopccp.exe	sc	17239	3710758	kitto_hong	1	S	\	%OUTPUT%\	20171123 YD verified
-tmlisten.exe	en	17314	3713471	jason_chang	103	C	\PCCSRV\Pccnt\Common\	%OUTPUT%\PccNT\Common\			
-tmlisten.exe	en	17314	3713471	jason_chang	111	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
+tmaegisSysEvt.dll	en	4799	3337416	felix_tseng	200	M	\Engine\	%COMMON_CLIENT_IMPORT%\AEGIS\bin\release\			
+tmlisten.exe	en	17314	3713471	jason_chang	800	C	\PCCSRV\Pccnt\Win64\X64\	%OUTPUT%\PccNT\Win64\x64\			
